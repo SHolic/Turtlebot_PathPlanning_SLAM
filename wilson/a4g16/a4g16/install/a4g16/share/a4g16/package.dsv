@@ -1,0 +1,14 @@
+source;share/a4g16/hook/cmake_prefix_path.ps1
+source;share/a4g16/hook/cmake_prefix_path.dsv
+source;share/a4g16/hook/cmake_prefix_path.sh
+source;share/a4g16/hook/path.ps1
+source;share/a4g16/hook/path.dsv
+source;share/a4g16/hook/path.sh
+source;share/a4g16/hook/pythonscriptspath.ps1
+source;share/a4g16/hook/pythonscriptspath.dsv
+source;share/a4g16/hook/pythonscriptspath.sh
+source;share/a4g16/local_setup.bash
+source;share/a4g16/local_setup.dsv
+source;share/a4g16/local_setup.ps1
+source;share/a4g16/local_setup.sh
+source;share/a4g16/local_setup.zsh

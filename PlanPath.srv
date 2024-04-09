@@ -1,0 +1,10 @@
+# PlanPath.srv
+
+# Request part
+Point2D start
+Point2D goal
+Point2D[] obstacles
+
+---
+# Response part
+Point2D[] path

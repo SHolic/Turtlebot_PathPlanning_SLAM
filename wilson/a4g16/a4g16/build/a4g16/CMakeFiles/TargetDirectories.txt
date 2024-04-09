@@ -1,0 +1,10 @@
+/home/zaizaipanghai0507/turtlebot3_ws/ros2_ws/src/a4g16/build/a4g16/CMakeFiles/uninstall.dir
+/home/zaizaipanghai0507/turtlebot3_ws/ros2_ws/src/a4g16/build/a4g16/CMakeFiles/a4g16_uninstall.dir
+/home/zaizaipanghai0507/turtlebot3_ws/ros2_ws/src/a4g16/build/a4g16/CMakeFiles/world_create.dir
+/home/zaizaipanghai0507/turtlebot3_ws/ros2_ws/src/a4g16/build/a4g16/CMakeFiles/test.dir
+/home/zaizaipanghai0507/turtlebot3_ws/ros2_ws/src/a4g16/build/a4g16/CMakeFiles/edit_cache.dir
+/home/zaizaipanghai0507/turtlebot3_ws/ros2_ws/src/a4g16/build/a4g16/CMakeFiles/rebuild_cache.dir
+/home/zaizaipanghai0507/turtlebot3_ws/ros2_ws/src/a4g16/build/a4g16/CMakeFiles/list_install_components.dir
+/home/zaizaipanghai0507/turtlebot3_ws/ros2_ws/src/a4g16/build/a4g16/CMakeFiles/install.dir
+/home/zaizaipanghai0507/turtlebot3_ws/ros2_ws/src/a4g16/build/a4g16/CMakeFiles/install/local.dir
+/home/zaizaipanghai0507/turtlebot3_ws/ros2_ws/src/a4g16/build/a4g16/CMakeFiles/install/strip.dir

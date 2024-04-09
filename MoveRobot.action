@@ -1,0 +1,10 @@
+# Goal definition
+float32 rotate_angle  # Angle to rotate (radians)
+float32 move_distance # Distance to move (meters)
+---
+# Result definition
+bool success         # Whether the action was successfully completed
+---
+# Feedback definition
+float32 rotated_angle
+float32 moved_distance

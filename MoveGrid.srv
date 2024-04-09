@@ -1,0 +1,7 @@
+# MoveGrid.srv
+# Request part
+float32 rotate_angle
+float32 move_distance
+---
+# Response part
+float32 duration

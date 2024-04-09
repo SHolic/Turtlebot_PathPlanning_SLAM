@@ -1,0 +1,5 @@
+# GetMapObstacles.srv
+# Request part is empty
+---
+# Response part
+Point2D[] obstacles

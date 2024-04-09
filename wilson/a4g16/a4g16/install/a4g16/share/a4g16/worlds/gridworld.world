@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<sdf version="1.7">
+<world name="gridworld">
+<include>
+  <uri>model://ground_plane</uri>
+</include>
+<model name="obstacle_0">
+  <pose>47.00 47.00 0 0 0 0</pose>
+  <static>true</static>
+  <link name="link">
+    <collision name="collision">
+      <geometry>
+        <box>
+          <size>47.00 47.00 1</size>
+        </box>
+      </geometry>
+    </collision>
+  </link>
+</model>
+<model name="obstacle_1">
+  <pose>423.00 0.00 0 0 0 0</pose>
+  <static>true</static>
+  <link name="link">
+    <collision name="collision">
+      <geometry>
+        <box>
+          <size>47.00 47.00 1</size>
+        </box>
+      </geometry>
+    </collision>
+  </link>
+</model>
+<model name="obstacle_2">
+  <pose>47.00 188.00 0 0 0 0</pose>
+  <static>true</static>
+  <link name="link">
+    <collision name="collision">
+      <geometry>
+        <box>
+          <size>47.00 47.00 1</size>
+        </box>
+      </geometry>
+    </collision>
+  </link>
+</model>
+<model name="obstacle_3">
+  <pose>329.00 188.00 0 0 0 0</pose>
+  <static>true</static>
+  <link name="link">
+    <collision name="collision">
+      <geometry>
+        <box>
+          <size>47.00 47.00 1</size>
+        </box>
+      </geometry>
+    </collision>
+  </link>
+</model>
+<model name="obstacle_4">
+  <pose>141.00 376.00 0 0 0 0</pose>
+  <static>true</static>
+  <link name="link">
+    <collision name="collision">
+      <geometry>
+        <box>
+          <size>47.00 47.00 1</size>
+        </box>
+      </geometry>
+    </collision>
+  </link>
+</model>
+<model name="obstacle_5">
+  <pose>282.00 376.00 0 0 0 0</pose>
+  <static>true</static>
+  <link name="link">
+    <collision name="collision">
+      <geometry>
+        <box>
+          <size>47.00 47.00 1</size>
+        </box>
+      </geometry>
+    </collision>
+  </link>
+</model>
+</world>
+</sdf>
